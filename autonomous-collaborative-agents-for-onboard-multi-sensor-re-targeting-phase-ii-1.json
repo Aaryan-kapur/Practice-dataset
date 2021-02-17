@@ -1,0 +1,33 @@
+{"project": {
+    "programDirectors": {"programDirector": "Therese Griebel"},
+    "responsibleProgram": "SBIR/STTR",
+    "workLocations": {"workLocation": [
+        "California",
+        "Maryland"
+    ]},
+    "endDate": "Jan 2008",
+    "primaryTas": "",
+    "programManagers": {"programManager": "Carlos Torrez"},
+    "description": "In our Phase I effort we developed a prototype software-agent based framework to provide for autonomous re-targeting of sensors hosted on satellites in polar orbits, subject to standing requests and dynamic user requests.  Our approach is a distributed and de-centralized, with each satellite maintaining knowledge of its sensor complement and physical capabilities as well as its schedule. Each satellite is capable of entering into negotiations for a viewing opportunity via a Contract Net type protocol; and is capable of optimizing its bid.  As sensor deployment increases and autonomous vehicles become more robust, the need for a framework to support multi-sensor re-targeting in a dynamic environment involving multiple organizations becomes more acute. In our Phase 2 effort, we will extend the framework to include support for multiple types of sensor platforms as well as more sophisticated variants of the Contract Net Protocol. We will define various agent 'templates' specialized to the needs of the multi-sensor re-targeting environment. In Phase 2, the improved framework, AAMSRT, will support policy utilization to govern the sensor re-tasking. As part of the Phase 2 effort, we will engage the Open Geospatial Consortium for applicable standards, including use of SensorML, services, and OGC initiatives regarding sensor planning.",
+    "title": "Autonomous Collaborative Agents for Onboard Multi-Sensor Re-Targeting, Phase II",
+    "leadOrganization": {
+        "acronym": "ARC",
+        "city": "Moffett Field",
+        "name": "Ames Research Center",
+        "state": "CA",
+        "type": "NASA Center"
+    },
+    "additionalTas": "",
+    "lastUpdated": "2017-09-16",
+    "supportingOrganizations": {"organization": {
+        "city": "Rockville",
+        "name": "Intelligent Automation, Inc.",
+        "state": "MD",
+        "type": "Industry"
+    }},
+    "library": "",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "id": 5759,
+    "startDate": "Jan 2006",
+    "status": "Completed"
+}}
